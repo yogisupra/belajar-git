@@ -10,5 +10,6 @@ public class Test2 {
 	  System.out.println("hasil a*b : "+c);
 	  d=a+b;
 	  System.out.println("hasil a+b : "+d);
+	  System.out.println("Belajar Git");
 	}
 }
